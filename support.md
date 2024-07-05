@@ -1,5 +1,6 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
+- [Translation Problem](#translation-problem)
 - [Troubleshoot Connection Problems](#troubleshoot-connection-problems)
 - [Guides](#guides)
   - [Find the SSID and Password](#find-the-ssid-and-password)
@@ -7,8 +8,15 @@
   - [Manually Connect to Goggles](#manually-connect-to-goggles)
 
 <!-- TOC end -->
+<!-- TOC --><a name="support"></a>
 
 # Support
+
+<!-- TOC --><a name="translation-problem"></a>
+
+# Translation Problem
+
+Please suggest a correction! Contact support at support@fpvmate.com
 
 <!-- TOC --><a name="troubleshoot-connection-problems"></a>
 
