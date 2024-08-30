@@ -1,23 +1,26 @@
-Hello,
+`Hello,`
 
-This app is run by one person, me!
-I will try and assist you the best that I can, but please be patient.
+`This app was created by one person.`
 
-Before emailing me at support@fpvmate.com, please try to fix the problem yourself, by using the information below.
+`I will try and assist you the best I can, but please be patient.`
 
-Thank you✌️
+`Thank you✌️`
 
-# Support
+# Contact Us
+
+[Discord](https://discord.gg/rq8vJ5J8Re) <- Preferred
+
+support@fpvmate.com
 
 # Translation Problem?
 
 Suggest a correction!
 
-Email support at support@fpvmate.com
+[Discord(#translation-suggestions)](https://discord.gg/PTDaXNK4)
 
-Please include the incorrect phrase along with your suggested correction.
+# Guides
 
-# Troubleshoot connection problems
+## Connection problems
 
 1. Retry connecting
 2. Are the goggles powered on?
@@ -26,8 +29,6 @@ Please include the incorrect phrase along with your suggested correction.
 5. Confirm the SSID and Password of your goggles
 6. Confirm the IP Address of your goggles
 7. Manually connect to your goggles
-
-# Guides
 
 ## Find the SSID and Password
 
