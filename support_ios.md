@@ -1,10 +1,7 @@
-`Hello,`
-
-`This app was created by one person.`
-
-`I will try and assist you the best I can, but please be patient.`
-
-`Thank you✌️`
+> Hello,
+> This app was created by one person.
+> I will try and assist you the best I can, but please be patient.
+> Thank you✌️
 
 # Contact Us
 
