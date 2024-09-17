@@ -1,21 +1,23 @@
-> Hello,
-> This app was created by one person.
-> I will try and assist you the best I can, but please be patient.
-> Thank you✌️
+# Announcement
+
+> Thank you for your purchase! 🙏 <br><br>
+> This app is maintained by one person.<br>
+> Before contacting me, please check the "Troubleshoot" section below.<br><br>
+> Thank You✌️
 
 # Contact Us
 
-[Discord](https://discord.gg/rq8vJ5J8Re) <- Preferred
+[👾 Discord](https://discord.gg/rq8vJ5J8Re) (_preferred_)
 
-support@fpvmate.com
+📨 support@fpvmate.com
 
 # Translation Problem?
 
-Suggest a correction!
+Please suggest a correction!
 
-[Discord(#translation-suggestions)](https://discord.gg/PTDaXNK4)
+[👾 Discord(#translation-suggestions)](https://discord.gg/xSAVBZX4qq)
 
-# Guides
+# 🧑‍🔧 Troubleshoot
 
 ## Connection problems
 
