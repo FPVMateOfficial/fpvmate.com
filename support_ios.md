@@ -19,14 +19,25 @@ Please suggest a correction!
 
 # 🧑‍🔧 Troubleshooting Guide
 
+## Connecting to the Goggles' WiFi Network
+
+1. Open [**Settings**](App-Prefs:root=WIFI) on your phone and select **Wi-Fi**.
+2. Look for the goggles' SSID (network name). If it doesn’t appear, reboot the goggles.
+3. Connect using the goggles' password. See **Locating the SSID and Password** section above.
+4. Open the FPV Viewer app, select **New Connection** or **Modify Connection**.
+5. Enter the SSID and Password, then press **Connect >**.
+6. Input the IP address and press **Connect >**.
+7. Select **Connect** and wait for the viewer to load.
+
 ## Connection Issues
 
 1. Retry connecting.
 2. Ensure the goggles are powered on.
-3. Check that the HDZero Expansion Module V2 is connected.
-4. Power cycle the goggles (turn off and on).
-5. Verify the goggles' SSID and Password. See **Locating the SSID and Password** section below.
-6. Confirm the goggles' IP address. See **Locating the Goggle’s IP Address** section below.
+3. Are connected to the goggle's WiFi network? See **Connecting to the Goggles' WiFi Network** section above.
+4. Check that the HDZero Expansion Module V2 is connected.
+5. Power cycle the goggles (turn off and on).
+6. Verify the goggles' SSID and Password. See **Locating the SSID and Password** section below.
+7. Confirm the goggles' IP address. See **Locating the Goggle’s IP Address** section below.
 
 ## Locating the SSID and Password
 
@@ -39,13 +50,3 @@ Please suggest a correction!
 1. Open **WiFi Module** from the goggles’ menu.
 2. Scroll to **Page** and select **Advanced**.
 3. The IP address will be under **Address** (e.g., _192.168.2.122_).
-
-## Manually Connecting to the Goggles' Network
-
-1. Open **Settings** on your phone and select **Wi-Fi**.
-2. Look for the goggles' SSID (network name). If it doesn’t appear, reboot the goggles.
-3. Connect using the goggles' password. See **Locating the SSID and Password** section above.
-4. Open the FPV Viewer app, select **New Connection** or **Modify Connection**.
-5. Enter the SSID and Password, then press **Connect >**.
-6. Input the IP address and press **Connect >**.
-7. Select **Connect** and wait for the viewer to load.
