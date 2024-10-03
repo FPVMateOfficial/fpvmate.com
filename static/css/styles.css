@@ -1,0 +1,25 @@
+body {
+  background-color: var(--bs-dark);
+}
+
+@font-face {
+  font-family: "Ginto Nord";
+  src: url("/static/fonts/ABC Ginto Nord Full Web/ABCGintoNord-Regular.woff2"), url("/static/fonts/ABC Ginto Nord Full Web/ABCGintoNord-Regular.woff");
+  font-display: swap;
+}
+.discord-btn {
+  font-family: "Ginto Nord", sans-serif;
+  background-color: #5865f2; /* Discord blurple */
+  color: white;
+  border: 1px solid white;
+}
+
+.discord-btn:hover {
+  background-color: var(--bs-secondary); /* Optional hover effect */
+}
+
+.discord-btn img {
+  width: 20px; /* Adjust size as needed */
+  margin-right: 8px;
+  vertical-align: middle;
+}

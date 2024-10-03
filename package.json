@@ -1,0 +1,21 @@
+{
+  "name": "fpv_mate_website",
+  "version": "1.0.0",
+  "description": "Simple website for fpvmate.com",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install_bootstrap_js": "cp node_modules/bootstrap/dist/js/bootstrap.bundle.min.js static/js/",
+    "// TODO Comment": "TODO: This version of bootstrap outputs a lot of warnings for an upcomming SASS change Take off the '--quiet' after bootstrap updates",
+    "sass:build": "sass --no-source-map --quiet scss:static/css",
+    "sass:watch": "sass --no-source-map --quiet --watch scss:static/css",
+    "setup": "npm run install_bootstrap_js",
+    "build": "npm run sass:build",
+    "watch": "npm run sass:watch"
+  },
+  "author": "FPV Mate",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.79.4"
+  }
+}
