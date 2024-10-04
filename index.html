@@ -68,12 +68,12 @@
     <!-- Left Side -->
     <div class="row justify-content-center">
       <div class="col-lg-8">
-        <h1 class="text-primary">
+        <h1 class="text-primary display-4 d-flex align-items-center">
           <img
             src="static/images/fpv_mate_logo_circle_transparent.svg"
             alt="FPV Mate Logo"
             width="74"
-            class="d-inline-block text-align-top"
+            class="d-inline-block text-align-center me-2"
           />
           FPV Mate
         </h1>
@@ -103,12 +103,39 @@
       <!-- Hero -->
       <!-- Do i need a div here? -->
       <div class="row justify-content-center">
-        <div class="col-lg-8">
-          <img
+        <div class="col-lg-12">
+          <!-- <img
             src="static/images/hero.png"
             class="img-fluid"
             alt="Connect to HDZero Goggles Wirelessly. View from the pilot seat! Optimized RTSP Latency. Expansion Module V2 Required."
-          />
+          /> -->
+          <picture>
+            <source
+              media="(min-width: 1200px)"
+              srcset="
+                static/images/hero800.png  1x,
+                static/images/hero1280.png 2x
+              "
+            />
+            <source
+              media="(min-width: 768px)"
+              srcset="
+                static/images/hero512.png 1x,
+                static/images/hero800.png 2x
+              "
+            />
+            <source
+              media="(min-width: 480px)"
+              srcset="
+                static/images/hero320.png 1x,
+                static/images/hero512.png 2x
+              "
+            />
+            <img
+              src="static/images/hero320.png"
+              alt="Connect to HDZero Goggles Wirelessly. View from the pilot seat! Optimized RTSP Latency. Expansion Module V2 Required."
+            />
+          </picture>
         </div>
       </div>
       <!-- App -->
@@ -118,12 +145,12 @@
           class="img-fluid"
           alt="Download on the App Store"
         />
-        <p class="">iPhone and iPad supported</p>
+        <p class="fs-5">iPhone and iPad supported</p>
       </div>
       <!-- Support -->
       <div class="d-flex flex-column align-items-center text-center">
         <p class="display-5">Issues or suggestions?</p>
-        <p class="">
+        <p class="fs-4">
           Create a ticket on our
           <a
             href="https://discord.gg/rq8vJ5J8Re"
@@ -142,9 +169,9 @@
     </div>
 
     <!-- Footer -->
-    <div class="d-flex flex-column align-items-center">
-      <p><a href="privacy.html">Privacy Policy</a></p>
-      <p><a href="terms.html">Terms & Condition</a></p>
+    <div class="d-flex justify-content-center gap-8 my-4">
+      <a href="privacy.html">Privacy Policy</a>
+      <a href="terms.html">Terms & Condition</a>
     </div>
 
     <script src="static/js/bootstrap.bundle.min.js" defer></script>
