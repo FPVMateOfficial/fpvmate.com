@@ -19,10 +19,11 @@ $success: #4b9b77;
 $danger: #a66978;
 $warning: #d1c17c;
 $info: #a4c8e1;
+$link-color: $myPrimary;
 
 // == Spacers ==
 
-$spacer: 1rem !default;
+$spacer: 1rem;
 $spacers: (
   0: 0,
   1: $spacer * 0.25,
@@ -33,6 +34,6 @@ $spacers: (
   6: $spacer * 6,
   7: $spacer * 8,
   8: $spacer * 12,
-) !default;
+);
 
 @import "../node_modules/bootstrap/scss/bootstrap.scss";

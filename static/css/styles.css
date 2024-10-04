@@ -1,5 +1,6 @@
 body {
   background-color: var(--bs-dark);
+  color: var(--bs-primary);
 }
 
 @font-face {
@@ -15,7 +16,8 @@ body {
 }
 
 .discord-btn:hover {
-  background-color: var(--bs-secondary); /* Optional hover effect */
+  background-color: #5865f2;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 .discord-btn img {

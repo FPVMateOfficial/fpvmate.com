@@ -2,6 +2,8 @@
 
 body {
   background-color: var(--bs-dark);
+  // Set the default text color
+  color: var(--bs-primary);
 }
 
 @font-face {
@@ -19,7 +21,8 @@ body {
 }
 
 .discord-btn:hover {
-  background-color: var(--bs-secondary); /* Optional hover effect */
+  background-color: #5865f2;
+  color: rgba($color: white, $alpha: 0.8);
 }
 
 .discord-btn img {
